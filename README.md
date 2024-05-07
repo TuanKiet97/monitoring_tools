@@ -27,11 +27,4 @@ You can access web interface with `http://<host>:<port>`.
 
 <br>
 
-## Installation
-```bash
-$ git clone https://github.com/solo5star/dashboard
-$ cd dashboard
-$ docker-compose up -d
-```
-
 You can access grafana web interface with `http://localhost:3000`
